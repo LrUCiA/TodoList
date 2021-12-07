@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TodoList
 //
-//  Created by 장명근 on 2021/12/07.
+//  Created by LrUCiA.
 //
 
 import UIKit
