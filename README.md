@@ -4,7 +4,7 @@
 Description
 ---
 Can change order of todolist.
-Can mark to finished todolist.
+  Can mark to finished todolist.
 <!--구분-->
 Screenshot 
 ---
