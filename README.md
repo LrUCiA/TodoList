@@ -3,8 +3,8 @@
 <!--구분-->
 Description
 ---
-Can change order of todolist.
-  Can mark to finished todolist.
+Can change order of todolist.  
+Can mark to finished todolist.
 <!--구분-->
 Screenshot 
 ---
